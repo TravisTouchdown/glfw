@@ -83,3 +83,16 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+
+## visual studio
+
+#Directories
+.vs/
+bin/
+bin-int/
+
+#Files
+*.user
+*.vcxproj
+*.vcxproj.*
+*.sln
